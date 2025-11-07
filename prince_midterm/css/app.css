@@ -1,0 +1,25 @@
+.font {
+    font-family: 'Montserrat';
+    background-color: lightblue; 
+}
+.citation {
+	border:solid 5px yellow;
+	padding:0px 20px 0px 20px;
+    align: center; 
+    text-align: center; 
+	border-radius:5px;
+	background-color: pink;
+}
+.caption {
+    font-weight: 100;
+    font-style: italic;
+}
+
+.footerStyle {
+padding:10px 20px 10px 20px;
+align: center; 
+text-align: center;
+background-color: black;
+color:#fff;
+font-family: 'Montserrat', sans-serif;
+}
