@@ -1,0 +1,38 @@
+body {
+    background-color:#ff7270; 
+}
+h1 {
+    font-family: 'Oswald', sans-serif; 
+    text-align: center;
+}
+h5 {
+    font-family: 'Oswald', sans-serif; 
+    text-align: center; 
+}
+p {
+    font-family: 'Oswald', sans-serif; 
+}
+.large-7 {
+    border: black 2px solid;
+    padding: 20px; 
+}
+.large-12 {
+    border: black 2px solid;
+    padding: 20px;
+}
+.large-5 {
+    border: black 2px solid;
+    padding: 20px;
+}
+h6 {
+    font-family: 'Oswald', sans-serif;  
+}
+.footerStyle {
+    font-family: 'Oswald', sans-serif; 
+    text-align: center;
+    width:150%; 
+    color: yellow; 
+}
+a:link {
+    color:yellow; 
+}
